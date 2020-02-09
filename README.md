@@ -1,3 +1,3 @@
-# Hello-Github
-Learn how to use Github by the numbers ,so, first, to build new Repository then use it;
-this is the new change
+# 介绍
+简单的2D地鼠游戏，通过移动松果促使地鼠移动到目的地，将松果放置于屏幕中会出现类似于异度之刃中的打捞系统，再次按下可确定松果的存在时间。
+途中可能遇到水障碍物，需要另寻道路或者铲除松果继续前进。
