@@ -112,7 +112,6 @@ public class GameManager : MonoBehaviour
             PlayerPrefs.SetInt("seedNum", PlayerPrefs.GetInt("seedNum") + 1);
             seedNumTxt.text = PlayerPrefs.GetInt("seedNum") + "";
             oldTime = newTime;
-            oldTime = newTime;
         }
     }
 
